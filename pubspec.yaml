@@ -1,0 +1,73 @@
+name: kelime_oyunu
+description: "Lingo Park - English Vocabulary App."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # --- UI & FONKSİYON ---
+  webview_flutter: ^4.10.0
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  confetti: ^0.7.0
+
+  # --- SES & MEDYA ---
+  flutter_tts: ^4.2.0
+  audioplayers: ^5.2.1
+
+  # --- VERİ & NETWORK ---
+  shared_preferences: ^2.1.0
+  http: ^1.1.0
+  logger: ^1.1.0
+  path_provider: ^2.1.0
+
+  # --- ISAR (Android namespace fix) ---
+  isar: ^3.1.0+1
+  isar_flutter_libs: ^3.1.0+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+  # --- OTOMASYON ARAÇLARI ---
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.0
+
+  # --- ISAR CODEGEN ---
+  isar_generator: ^3.1.0+1
+  build_runner: ^2.4.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/words.json
+    - assets/idioms.json
+    - assets/proverbs.json
+    - assets/sounds/
+    - assets/icon/
+
+# ==========================================
+# 1. UYGULAMA İKON AYARLARI (Launcher Icon)
+# ==========================================
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/app_icon.png"
+  min_sdk_android: 21
+
+# ==========================================
+# 2. AÇILIŞ EKRANI AYARLARI (Splash Screen)
+# ==========================================
+flutter_native_splash:
+  color: "#0F0F0F"
+  image: "assets/icon/app_icon.png"
+  android_12:
+    image: "assets/icon/app_icon.png"
+    color: "#0F0F0F"
+  fullscreen: true

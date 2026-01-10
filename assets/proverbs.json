@@ -1,0 +1,422 @@
+[
+  {
+    "word": "A bad workman always blames his tools",
+    "Anlam": "Kem aletle kemalat olmaz",
+    "Anlam1": "beceriksiz işçi aletini suçlar",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "A bird in the hand is worth two in the bush",
+    "Anlam": "Eldeki serçe, damdaki güvercinden iyidir",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "A chain is only as strong as its weakest link",
+    "Anlam": "Zincir, en zayıf halkası kadar güçlüdür",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "A friend in need is a friend indeed",
+    "Anlam": "Dost kara günde belli olur",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "A journey of a thousand miles begins with a single step",
+    "Anlam": "Bin millik bir yolculuk tek bir adımla başlar",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "A leopard can't change its spots",
+    "Anlam": "Can çıkar huy çıkmaz",
+    "Anlam1": "huylu huyundan vazgeçmez",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "A picture is worth a thousand words",
+    "Anlam": "Bir resim bin kelimeye bedeldir",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "A rolling stone gathers no moss",
+    "Anlam": "İşleyen demir pas tutmaz",
+    "Anlam1": "yuvarlanan taş yosun tutmaz",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Actions speak louder than words",
+    "Anlam": "Ayinesi iştir kişinin lafa bakılmaz",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "All good things must come to an end",
+    "Anlam": "Her güzel şeyin bir sonu vardır",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "All that glitters is not gold",
+    "Anlam": "Her parlayan altın değildir",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "An apple a day keeps the doctor away",
+    "Anlam": "Güneş giren eve doktor girmez",
+    "Anlam1": "sağlıklı yaşam doktoru uzak tutar",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "An empty vessel makes much noise",
+    "Anlam": "Boş teneke çok ses çıkarır",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Appearances can be deceiving",
+    "Anlam": "Görünüş aldatıcı olabilir",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "As you sow, so you shall reap",
+    "Anlam": "Ne ekersen onu biçersin",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Barking dogs seldom bite",
+    "Anlam": "Havlayan köpek ısırmaz",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Beauty is in the eye of the beholder",
+    "Anlam": "Güzellik bakanın gözündedir",
+    "Anlam1": "gönül kimi severse güzel odur",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Better late than never",
+    "Anlam": "Geç olsun güç olmasın",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Better safe than sorry",
+    "Anlam": "Eşeği sağlam kazığa bağlamak",
+    "Anlam1": "tedbirli olmak pişmanlıktan iyidir",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Birds of a feather flock together",
+    "Anlam": "Tencere yuvarlanmış kapağını bulmuş",
+    "Anlam1": "benzer insanlar bir araya gelir",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Blood is thicker than water",
+    "Anlam": "Et tırnaktan ayrılmaz",
+    "Anlam1": "aile bağları her şeyden güçlüdür",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Cleanliness is next to godliness",
+    "Anlam": "Temizlik imandan gelir",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Curiosity killed the cat",
+    "Anlam": "Merak kediyi öldürür",
+    "Anlam1": "fazla merak başa dert açar",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Don't bite the hand that feeds you",
+    "Anlam": "Yediği kaba pislemek",
+    "Anlam1": "seni besleyen eli ısırma",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Don't count your chickens before they hatch",
+    "Anlam": "Dereyi görmeden paçaları sıvama",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Don't judge a book by its cover",
+    "Anlam": "Kitabı kapağına göre yargılama",
+    "Anlam1": "kimseyi dış görünüşüyle yargılama",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Don't put all your eggs in one basket",
+    "Anlam": "Bütün yumurtaları aynı sepete koyma",
+    "Anlam1": "tüm riskleri tek yere yükleme",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Early bird catches the worm",
+    "Anlam": "Erken kalkan yol alır",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Easy come, easy go",
+    "Anlam": "Haydan gelen huya gider",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Every cloud has a silver lining",
+    "Anlam": "Her şerde bir hayır vardır",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Every dog has his day",
+    "Anlam": "Her horoz kendi çöplüğünde öter",
+    "Anlam1": "herkesin şanslı bir günü vardır",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Fortune favors the bold",
+    "Anlam": "Talih cesurdan yanadır",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Good things come to those who wait",
+    "Anlam": "Sabreden derviş muradına ermiş",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Haste makes waste",
+    "Anlam": "Acele işe şeytan karışır",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Honesty is the best policy",
+    "Anlam": "En iyi yol dürüstlüktür",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Hope for the best, prepare for the worst",
+    "Anlam": "En iyisini um, en kötüsüne hazırlan",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "If it ain't broke, don't fix it",
+    "Anlam": "Çalışıyorsa dokunma",
+    "Anlam1": "bozuk değilse tamir etme",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "It never rains but it pours",
+    "Anlam": "Aksilikler hep üst üste gelir",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "It's no use crying over spilt milk",
+    "Anlam": "Son pişmanlık fayda etmez",
+    "Anlam1": "dökülen süte ağlanmaz",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Kill two birds with one stone",
+    "Anlam": "Bir taşla iki kuş vurmak",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Laughter is the best medicine",
+    "Anlam": "Gülmek en iyi ilaçtır",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Learn to walk before you run",
+    "Anlam": "Koşmadan önce yürümeyi öğren",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Let sleeping dogs lie",
+    "Anlam": "Uyuyan yılanı uyandırma",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Like father, like son",
+    "Anlam": "Armut dibine düşer",
+    "Anlam1": "babasına bak oğlunu al",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Look before you leap",
+    "Anlam": "İnce eleyip sık dokumak",
+    "Anlam1": "atlamadan önce bak",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Money doesn't grow on trees",
+    "Anlam": "Para ağaçta yetişmez",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Necessity is the mother of invention",
+    "Anlam": "İhtiyaç keşfin anasıdır",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "No pain, no gain",
+    "Anlam": "Emek olmadan yemek olmaz",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Out of sight, out of mind",
+    "Anlam": "Gözden ırak olan gönülden de ırak olur",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Practice makes perfect",
+    "Anlam": "Pratik yapmak mükemmelleştirir",
+    "Anlam1": "işleyen demir ışıldar",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Rome wasn't built in a day",
+    "Anlam": "Roma bir günde kurulmadı",
+    "Anlam1": "sabır gerekir",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "The early bird catches the worm",
+    "Anlam": "Erken kalkan yol alır",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "The grass is always greener on the other side",
+    "Anlam": "Davulun sesi uzaktan hoş gelir",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "The pen is mightier than the sword",
+    "Anlam": "Kalem kılıçtan keskindir",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "There is no smoke without fire",
+    "Anlam": "Ateş olmayan yerden duman çıkmaz",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Time is money",
+    "Anlam": "Vakit nakittir",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Two heads are better than one",
+    "Anlam": "Bir elin nesi var iki elin sesi var",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "When in Rome, do as the Romans do",
+    "Anlam": "Roma'daysan Romalı gibi davran",
+    "Anlam1": "bulunduğun yere uyum sağla",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "Where there's a will, there's a way",
+    "Anlam": "İsteyen çaresini, istemeyen bahanesini bulur",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  },
+  {
+    "word": "You can't judge a book by its cover",
+    "Anlam": "Görünüşe aldanma",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Proverb"
+  }
+]
