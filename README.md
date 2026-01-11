@@ -15,19 +15,19 @@ Uygulama, göz yormayan **Karanlık Mod** desteği ile tasarlanmıştır.
 
 | **Ana Sayfa** | **Profil & İstatistik** | **Ayarlar** |
 |:---:|:---:|:---:|
-| <img src="AnaEkran.png" width="250"> | <img src="OyuncuKartı.png" width="250"> | <img src="Ayalar.png" width="250"> |
+| <img src="assets\Screenshot\AnaEkran.png" width="250"> | <img src="assets\Screenshot\OyuncuKartı.png" width="250"> | <img src="assets\Screenshot\Ayalar.png" width="250"> |
 
 | **Kelime Avı** | **Test Modu** | **Dinle ve Bul** |
 |:---:|:---:|:---:|
-| <img src="KlasikQuiz.png" width="250"> | <img src="TestQuiz.png" width="250"> | <img src="Listeningquiz.png" width="250"> |
+| <img src="assets\Screenshot\KlasikQuiz.png" width="250"> | <img src="assets\Screenshot\TestQuiz.png" width="250"> | <img src="assets\Screenshot\Listeningquiz.png" width="250"> |
 
 | **Sözlük** | **Okuma Parçaları** | **Atasözleri** |
 |:---:|:---:|:---:|
-| <img src="Sözlük.png" width="250"> | <img src="Paragraf.png" width="250"> | <img src="Atasözü.png" width="250"> |
+| <img src="assets\Screenshot\Sözlük.png" width="250"> | <img src="assets\Screenshot\Paragraf.png" width="250"> | <img src="assets\Screenshot\Atasözü.png" width="250"> |
 
 | **Zamana Karşı** |
 |:---:|
-| <img src="ZamanaKarşı.png" width="250"> |
+| <img src="assets\Screenshot\ZamanaKarşı.png" width="250"> |
 
 ---
 
