@@ -1,0 +1,870 @@
+[
+  {
+    "word": "A blessing in disguise",
+    "Anlam": "Her işte bir hayır vardır",
+    "Anlam1": "kötü görünen iyi bir şey",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "A dime a dozen",
+    "Anlam": "Sürüsüne bereket",
+    "Anlam1": "çok bol ve değersiz",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "A penny for your thoughts",
+    "Anlam": "Neler düşünüyorsun?",
+    "Anlam1": "dalıp gittin",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "A piece of cake",
+    "Anlam": "Çocuk oyuncağı",
+    "Anlam1": "çok kolay",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Actions speak louder than words",
+    "Anlam": "Lafla peynir gemisi yürümez",
+    "Anlam1": "icraat önemlidir",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Add insult to injury",
+    "Anlam": "Yaraya tuz basmak",
+    "Anlam1": "durumu daha da kötüleştirmek",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "All ears",
+    "Anlam": "Can kulağıyla dinlemek",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Back to the drawing board",
+    "Anlam": "Sil baştan başlamak",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Barking up the wrong tree",
+    "Anlam": "Yanlış kapıyı çalmak",
+    "Anlam1": "yanlış kişiyi suçlamak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Beat around the bush",
+    "Anlam": "Lafı gevelemek",
+    "Anlam1": "sadede gelmemek",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Better late than never",
+    "Anlam": "Geç olsun güç olmasın",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Bite the bullet",
+    "Anlam": "Dişini sıkmak",
+    "Anlam1": "zor bir duruma katlanmak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Break a leg",
+    "Anlam": "Şeytanın bacağını kır",
+    "Anlam1": "iyi şanslar",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Break the ice",
+    "Anlam": "Buzları eritmek",
+    "Anlam1": "ortamı yumuşatmak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Burn the midnight oil",
+    "Anlam": "Gece geç saatlere kadar çalışmak",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "By the skin of your teeth",
+    "Anlam": "Ucu ucuna",
+    "Anlam1": "kıl payı",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Call it a day",
+    "Anlam": "Paydos etmek",
+    "Anlam1": "günü bitirmek",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Cat got your tongue?",
+    "Anlam": "Dilini mi yuttun?",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Caught between a rock and a hard place",
+    "Anlam": "İki arada bir derede kalmak",
+    "Anlam1": "aşağı tükürsem sakal...",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Cost an arm and a leg",
+    "Anlam": "Astarı yüzünden pahalıya gelmek",
+    "Anlam1": "çok pahalı olmak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Cross that bridge when you come to it",
+    "Anlam": "Dereyi görmeden paçaları sıvama",
+    "Anlam1": "zamanı gelince düşünürüz",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Cry over spilt milk",
+    "Anlam": "Olanla ölene çare yok",
+    "Anlam1": "iş işten geçti",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Curiosity killed the cat",
+    "Anlam": "Merak kediyi öldürür (fazla merak iyi değildir)",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Cut corners",
+    "Anlam": "İşin kolayına kaçmak",
+    "Anlam1": "masraftan/emekten kısmak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Cut to the chase",
+    "Anlam": "Sadede gelmek",
+    "Anlam1": "kısa kesmek",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Devil's advocate",
+    "Anlam": "Şeytanın avukatı",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Don't count your chickens before they hatch",
+    "Anlam": "Dereyi görmeden paçaları sıvama",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Don't judge a book by its cover",
+    "Anlam": "Kimseyi dış görünüşüne göre yargılama",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Don't put all your eggs in one basket",
+    "Anlam": "Bütün yumurtaları aynı sepete koyma (riskleri dağıt)",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Drastic times call for drastic measures",
+    "Anlam": "Zor zamanlar zor kararlar gerektirir",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Easy does it",
+    "Anlam": "Yavaş ve dikkatli ol",
+    "Anlam1": "acele etme",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Every cloud has a silver lining",
+    "Anlam": "Her şerde bir hayır vardır",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Far cry from",
+    "Anlam": "Alakası yok",
+    "Anlam1": "yanından bile geçmez",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Feel under the weather",
+    "Anlam": "Kendini halsiz/kötü hissetmek",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Give someone the benefit of the doubt",
+    "Anlam": "Birine şüphe kredisi tanımak",
+    "Anlam1": "hemen yargılamamak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Give someone the cold shoulder",
+    "Anlam": "Birine soğuk davranmak",
+    "Anlam1": "görmezden gelmek",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Go back to the drawing board",
+    "Anlam": "Başa dönmek",
+    "Anlam1": "yeniden planlamak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Good things come to those who wait",
+    "Anlam": "Sabreden derviş muradına ermiş",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Hang in there",
+    "Anlam": "Dayan",
+    "Anlam1": "pes etme",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Hast makes waste",
+    "Anlam": "Acele işe şeytan karışır",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Hit the nail on the head",
+    "Anlam": "Tam üstüne basmak",
+    "Anlam1": "taşı gediğine koymak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Hit the sack",
+    "Anlam": "Kafayı vurup yatmak",
+    "Anlam1": "uyumaya gitmek",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Ignorance is bliss",
+    "Anlam": "Cehalet mutluluktur",
+    "Anlam1": "bilmemek daha iyidir",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "In the heat of the moment",
+    "Anlam": "O anki öfkeyle/heyecanla",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "It takes two to tango",
+    "Anlam": "Tek taraflı olmaz",
+    "Anlam1": "bu iş iki kişilik",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "It's not rocket science",
+    "Anlam": "Atla deve değil",
+    "Anlam1": "çok karmaşık bir şey değil",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Jump on the bandwagon",
+    "Anlam": "Modaya uymak",
+    "Anlam1": "çoğunluğun yaptığını yapmak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Keep your chin up",
+    "Anlam": "Başını dik tut",
+    "Anlam1": "moralini bozma",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Kill two birds with one stone",
+    "Anlam": "Bir taşla iki kuş vurmak",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Leave no stone unturned",
+    "Anlam": "Bakılmadık yer bırakmamak",
+    "Anlam1": "her yolu denemek",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Let sleeping dogs lie",
+    "Anlam": "Uyuyan yılanı uyandırma",
+    "Anlam1": "sorunu deşme",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Let the cat out of the bag",
+    "Anlam": "Ağzındaki baklayı çıkarmak",
+    "Anlam1": "sırrı ifşa etmek",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Look before you leap",
+    "Anlam": "İnce eleyip sık dokumak",
+    "Anlam1": "düşünmeden hareket etme",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Make a long story short",
+    "Anlam": "Uzun lafın kısası",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Miss the boat",
+    "Anlam": "Fırsatı kaçırmak",
+    "Anlam1": "treni kaçırmak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "No pain, no gain",
+    "Anlam": "Emek olmadan yemek olmaz",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "On the ball",
+    "Anlam": "İşini bilen",
+    "Anlam1": "uyanık",
+    "Anlam2": "dikkatli",
+    "level": "Idiom"
+  },
+  {
+    "word": "Once in a blue moon",
+    "Anlam": "Ayda yılda bir",
+    "Anlam1": "çok nadir",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Out of the frying pan into the fire",
+    "Anlam": "Yağmurdan kaçarken doluya tutulmak",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Piece of cake",
+    "Anlam": "Çocuk oyuncağı",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Play it by ear",
+    "Anlam": "Duruma göre hareket etmek",
+    "Anlam1": "doğaçlama yapmak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Pull someone's leg",
+    "Anlam": "Birini işletmek",
+    "Anlam1": "kafa bulmak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Put yourself in someone's shoes",
+    "Anlam": "Kendini başkasının yerine koymak (empati)",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Rain on someone's parade",
+    "Anlam": "Birinin hevesini kırmak",
+    "Anlam1": "keyfini kaçırmak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Rome wasn't built in a day",
+    "Anlam": "Roma bir günde kurulmadı (sabır gerekir)",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Save for a rainy day",
+    "Anlam": "Ak akçe kara gün içindir",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "See eye to eye",
+    "Anlam": "Aynı fikirde olmak",
+    "Anlam1": "anlaşmak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Shed light on",
+    "Anlam": "Aydınlatmak",
+    "Anlam1": "açıklığa kavuşturmak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Sit on the fence",
+    "Anlam": "Kararsız kalmak",
+    "Anlam1": "taraf tutmamak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Speak of the devil",
+    "Anlam": "İti an çomağı hazırla",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Spill the beans",
+    "Anlam": "Baklayı ağzından çıkarmak",
+    "Anlam1": "sırrı dökülmek",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Steal someone's thunder",
+    "Anlam": "Rol çalmak",
+    "Anlam1": "başkasının başarısını gölgelemek",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Take it with a grain of salt",
+    "Anlam": "Her söylenene inanma",
+    "Anlam1": "ihtiyatlı yaklaş",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "The ball is in your court",
+    "Anlam": "Top sende",
+    "Anlam1": "karar senin",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "The best of both worlds",
+    "Anlam": "Her iki tarafın da avantajına sahip olmak",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "The early bird catches the worm",
+    "Anlam": "Erken kalkan yol alır",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "The elephant in the room",
+    "Anlam": "Odada fil var (herkesin bildiği ama konuşmadığı sorun)",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "The last straw",
+    "Anlam": "Bardağı taşıran son damla",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Through thick and thin",
+    "Anlam": "İyi günde kötü günde",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Throw in the towel",
+    "Anlam": "Havlu atmak",
+    "Anlam1": "pes etmek",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Time flies",
+    "Anlam": "Zaman su gibi akıp gidiyor",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "To be on cloud nine",
+    "Anlam": "Etekleri zil çalmak",
+    "Anlam1": "çok mutlu olmak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "To cost an arm and a leg",
+    "Anlam": "Ateş pahası olmak",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "To get cold feet",
+    "Anlam": "Son anda vazgeçmek",
+    "Anlam1": "korkup caymak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "To have a sweet tooth",
+    "Anlam": "Tatlıya düşkün olmak",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "To hear something straight from the horse's mouth",
+    "Anlam": "Bir şeyi birinci ağızdan duymak",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "To make ends meet",
+    "Anlam": "İki yakayı bir araya getirmek",
+    "Anlam1": "geçimini sağlamak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "To sit tight",
+    "Anlam": "Sabırla beklemek",
+    "Anlam1": "yerinden kıpırdamamak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Twist someone's arm",
+    "Anlam": "Birini zorlamak",
+    "Anlam1": "ağzından girip burnundan çıkmak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Under the weather",
+    "Anlam": "Rahatsız",
+    "Anlam1": "hasta gibi",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Up in the air",
+    "Anlam": "Henüz belli değil",
+    "Anlam1": "havada (belirsiz)",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Weather the storm",
+    "Anlam": "Fırtınayı atlatmak",
+    "Anlam1": "zor günleri geçirmek",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "When pigs fly",
+    "Anlam": "Çıkmaz ayın son çarşambası (asla olmayacak şey)",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Wrap your head around something",
+    "Anlam": "Bir şeyi kafası almak",
+    "Anlam1": "kavramak",
+    "Anlam2": "anlamak",
+    "level": "Idiom"
+  },
+  {
+    "word": "You can't have your cake and eat it too",
+    "Anlam": "Hem pastam dursun hem karnım doysun olmaz",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "You can't judge a book by its cover",
+    "Anlam": "Görünüşe aldanma",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Your guess is as good as mine",
+    "Anlam": "Ben de senin kadar biliyorum (bilmiyorum)",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Zip your lip",
+    "Anlam": "Çeneni kapa",
+    "Anlam1": "sır tut",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Break the bank",
+    "Anlam": "Çok para harcamak",
+    "Anlam1": "bütçeyi sarsmak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Close but no cigar",
+    "Anlam": "Yaklaştın ama olmadı",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Down to earth",
+    "Anlam": "Ayakları yere basan",
+    "Anlam1": "gerçekçi",
+    "Anlam2": "mütevazı",
+    "level": "Idiom"
+  },
+  {
+    "word": "Drive someone up the wall",
+    "Anlam": "Birini çileden çıkarmak",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Face the music",
+    "Anlam": "Yaptığının sonucuna katlanmak",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Get something off your chest",
+    "Anlam": "İçini dökmek",
+    "Anlam1": "rahatlamak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Go the extra mile",
+    "Anlam": "Elinden gelenin fazlasını yapmak",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Hold your horses",
+    "Anlam": "Dur bakalım",
+    "Anlam1": "acele etme",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Keep an eye on",
+    "Anlam": "Göz kulak olmak",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Let someone off the hook",
+    "Anlam": "Birini affetmek",
+    "Anlam1": "görmezden gelmek",
+    "Anlam2": "serbest bırakmak",
+    "level": "Idiom"
+  },
+  {
+    "word": "Lose your touch",
+    "Anlam": "Yeteneğini kaybetmek",
+    "Anlam1": "formdan düşmek",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Make a mountain out of a molehill",
+    "Anlam": "Pireyi deve yapmak",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "My lips are sealed",
+    "Anlam": "Ağzım sıkıdır",
+    "Anlam1": "kimseye söylemem",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "No brainer",
+    "Anlam": "Düşünmeye bile gerek olmayan",
+    "Anlam1": "çok bariz",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "On thin ice",
+    "Anlam": "İnce buz üstünde (tehlikeli sularda)",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Play devil's advocate",
+    "Anlam": "Şeytanın avukatlığını yapmak",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Ring a bell",
+    "Anlam": "Bir yerden tanıdık gelmek",
+    "Anlam1": "hatırlatmak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Rule of thumb",
+    "Anlam": "Göz kararı kural",
+    "Anlam1": "genel geçer kural",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Shoot the breeze",
+    "Anlam": "Havadan sudan konuşmak",
+    "Anlam1": "geyik yapmak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Sleep on it",
+    "Anlam": "Üzerine bir gece yatıp düşünmek",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Take a rain check",
+    "Anlam": "Başka sefere ertelemek (nazikçe reddetmek)",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "The calm before the storm",
+    "Anlam": "Fırtına öncesi sessizlik",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Throw caution to the wind",
+    "Anlam": "Risk almak",
+    "Anlam1": "gemileri yakmak",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Time is money",
+    "Anlam": "Vakit nakittir",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "Turn a blind eye",
+    "Anlam": "Görmezden gelmek",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  },
+  {
+    "word": "When in Rome, do as the Romans do",
+    "Anlam": "Roma'daysan Romalı gibi davran (uyum sağla)",
+    "Anlam1": "",
+    "Anlam2": "",
+    "level": "Idiom"
+  }
+]
