@@ -77,7 +77,7 @@ Bu proje Flutter ile geliştirilmiş olup aşağıdaki kütüphanelerden yararla
 
 ## 📄 Lisans
 
-Bu proje **MIT Lisansı** ile korunmaktadır. Açık kaynaklıdır, geliştirilebilir ve dağıtılabilir. Detaylar için `LICENSE` dosyasına bakabilirsiniz.
+Bu proje **GPLv3 Lisansı** ile korunmaktadır. Açık kaynaklıdır, geliştirilebilir ve dağıtılabilir. Detaylar için `LICENSE` dosyasına bakabilirsiniz.
 
 ---
 <div align="center">
