@@ -3,7 +3,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Isar](https://img.shields.io/badge/Isar_DB-Database-purple?style=for-the-badge)
-![License](![License](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge))
+![License](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)
 
 **Lingo Park**, İngilizce kelime öğrenmeyi oyunlaştırarak eğlenceli ve kalıcı hale getiren, modern arayüze sahip bir mobil uygulamadır. Kelime avı, dinleme testleri ve okuma parçaları ile dil seviyenizi (A1-C1) geliştirin.
 
