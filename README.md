@@ -1,9 +1,9 @@
 
 ---
 
-# ✅ **Lingo Park – FINAL README (Türkçe)**
+# ✅ **Lingo Park **
 
-```md
+``md
 # 🦁 Lingo Park – İngilizce Kelime Öğrenme Uygulaması
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
