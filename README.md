@@ -42,7 +42,7 @@ Kelime oyunları, dinleme testleri ve okuma parçaları ile **A1–C1** seviyele
 
 | Ana Sayfa | Profil | Ayarlar |
 |:--:|:--:|:--:|
-| <img src="assets/Screenshot/AnaEkran.png" width="250"> | <img src="assets/Screenshot/OyuncuKartı.png" width="250"> | <img src="assets/Screenshot/Ayarlar.png" width="250"> |
+| <img src="assets/Screenshot/AnaEkran.png" width="250"> | <img src="assets/Screenshot/OyuncuKartı.png" width="250"> | <img src="assets/Screenshot/Ayalar.png" width="250"> |
 
 | Kelime Avı | Test | Dinle & Bul |
 |:--:|:--:|:--:|
