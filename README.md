@@ -1,4 +1,3 @@
-
 ---
 
 # 🦁 Lingo Park – İngilizce Kelime Öğrenme Uygulaması
@@ -6,9 +5,26 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Isar](https://img.shields.io/badge/Isar_DB-Database-purple?style=for-the-badge)
-![License](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-PROPRIETARY-red?style=for-the-badge)
 
-**Lingo Park**, İngilizce kelime öğrenmeyi oyunlaştırarak eğlenceli ve kalıcı hale getiren, modern arayüze sahip bir **Android mobil uygulamasıdır**.  
+## ⚠️ License Notice
+
+This project is **NOT open-source**.
+
+Any previous open-source license (MIT, GPL, etc.) is no longer applicable  
+to new versions of this repository.
+
+Unauthorized use, redistribution, modification, or republication  
+of this software or its binaries is strictly prohibited.
+
+This repository may contain legacy references to open-source licenses.  
+Those references apply **only to deprecated versions** and are no longer valid.
+
+---
+
+**Lingo Park**, İngilizce kelime öğrenmeyi oyunlaştırarak eğlenceli ve kalıcı hale getiren,  
+modern arayüze sahip bir **Android mobil uygulamasıdır**.
+
 Kelime oyunları, dinleme testleri ve okuma parçaları ile **A1–C1** seviyeleri hedeflenir.
 
 ---
@@ -26,7 +42,7 @@ Kelime oyunları, dinleme testleri ve okuma parçaları ile **A1–C1** seviyele
 
 | Ana Sayfa | Profil | Ayarlar |
 |:--:|:--:|:--:|
-| <img src="assets/Screenshot/AnaEkran.png" width="250"> | <img src="assets/Screenshot/OyuncuKartı.png" width="250"> | <img src="assets/Screenshot/Ayalar.png" width="250"> |
+| <img src="assets/Screenshot/AnaEkran.png" width="250"> | <img src="assets/Screenshot/OyuncuKartı.png" width="250"> | <img src="assets/Screenshot/Ayarlar.png" width="250"> |
 
 | Kelime Avı | Test | Dinle & Bul |
 |:--:|:--:|:--:|
@@ -48,9 +64,11 @@ Kelime oyunları, dinleme testleri ve okuma parçaları ile **A1–C1** seviyele
 
 [![Download](https://img.shields.io/badge/Download-APK-success?style=for-the-badge&logo=android)](https://github.com/idginity124/LingoPark/releases/latest)
 
-1. APK dosyasını indir
-2. Telefonuna kur
-3. Oynamaya başla
+1. APK dosyasını indir  
+2. Telefonuna kur  
+3. Oynamaya başla  
+
+> Android güvenlik uyarısı çıkarsa **“Yine de Yükle”** seçeneğini kullanabilirsin.
 
 ---
 
@@ -64,9 +82,12 @@ Kelime oyunları, dinleme testleri ve okuma parçaları ile **A1–C1** seviyele
 
 ---
 
-## 📜 Lisans
+## 📄 About This Repository
 
-Bu proje **GPLv3** lisansı ile açık kaynak olarak sunulmaktadır.
+Source code is **private** and not included in this repository.  
+This repository is intended for **binary distribution and documentation only**.
+
+No developer setup or source code instructions are provided.
 
 ---
 
